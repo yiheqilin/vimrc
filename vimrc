@@ -6,6 +6,7 @@ set nocompatible
 filetype off
 
 call vundle#begin()
+Plugin 'VundleVim/Vundle.vim'
 Plugin 'ctrlp.vim'
 Plugin 'SirVer/ultisnips'
 Plugin 'honza/vim-snippets'
